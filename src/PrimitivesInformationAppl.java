@@ -29,7 +29,7 @@ public class PrimitivesInformationAppl {
 		// "char"
 
 		switch (type) {
-
+//[YG] Had you introduced the separate methods as specified in the comment above (lines 26-29) would have been much more professional 
 		case "byte": {
 			byte minValue = 1;
 			byte maxValue = 1;
